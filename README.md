@@ -1,4 +1,4 @@
-# Hackathon Starter
+# Hackathon Starter :)
 
 Next.js 15 (App Router) + Tailwind CSS + shadcn/ui starter with working auth out of the box, a dashboard, and scaffolding ready to wire for **Supabase**, **Firebase**, **AI**, **MCP** and **webhooks** — plus example API routes and CI.
 
